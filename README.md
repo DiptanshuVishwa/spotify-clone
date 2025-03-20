@@ -11,6 +11,9 @@ A simple frontend replica of Spotify, built using HTML and CSS. This project mim
 - **HTML5**  
 - **CSS3 (Flexbox & Grid)**  
 
+## 🚀 Live Demo
+👉 [Click to View](https://DiptanshuVishwa.github.io/spotify-clone/)
+
 ## 📂 Project Structure  
 /spotify-clone │── index.html # Main HTML file
 │── styles.css # CSS file
