@@ -7,10 +7,6 @@ A simple frontend replica of Spotify, built using HTML and CSS. This project mim
 ✅ Interactive UI with CSS styling  
 ✅ Responsive Design (for different screen sizes)  
 ✅ Custom Assets (icons and images in the `assets` folder)  
-
-## 📸 Screenshots  
-*(Add images of your project here by uploading them to GitHub and linking them)*  
-
 ## 🛠️ Technologies Used  
 - **HTML5**  
 - **CSS3 (Flexbox & Grid)**  
